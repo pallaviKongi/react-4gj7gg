@@ -1,0 +1,17 @@
+.grid-container {
+  min-height: 200px;
+  border: 1px solid red;
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.grid-child {
+  border: 1px solid black;
+  height: 200px;
+  width: 200px;
+}
+
+.cat-image {
+  height: 200px;
+  width: 200px;
+}
